@@ -1,2 +1,2 @@
 # Click-Tool
-Small program that clicks on the left corner of the screen to keep your messaging apps from showing your absent status 
+To keep the messaging apps from showing you're absent, this small code clicks on the left corner of the screen while you're gone ;)
