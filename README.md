@@ -1,3 +1,3 @@
 # Click-Tool
-To keep the messaging apps from showing you're absent (such as Teams), this small code clicks on the left corner of the screen while you're gone ;)
+This small code clicks on the left corner of the screen while you're gone to keep your screen from going on sleep mode
 P.S : you need to download the pyautgui package 
